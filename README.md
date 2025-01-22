@@ -1,5 +1,8 @@
 # amine-projets.github.io
 Projets réalisés lors de mon master en cryptographie. Variété d'implémentation de fonctions utiles en cryptographie et en codes. 
+Implémentation de la forme algebrique normale AFN (cryptographie symetrique) :
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/AFN.c)
+
 
 TP de codes algebriques sur les codes de Reed-Solomon et leurs décodage :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/Codes_Reed_Solomon.ipynb)
