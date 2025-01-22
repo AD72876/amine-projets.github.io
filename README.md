@@ -6,5 +6,5 @@ Tp noté de théorie de l'information
 
 
 Implémentation d'additions, soustractions et divisions scolaires et binaires 
-(https://nbviewer.org/github/AD72876/amine-projets/raw/main/notebooks_M1_arithmetique_algorithmique.ipynb)
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets/raw/main/notebooks_M1_arithmetique_algorithmique.ipynb)
 
