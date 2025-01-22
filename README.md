@@ -28,6 +28,7 @@ TP transformée de fourier :
 Implémentation de la forme algebrique normale AFN (cryptographie symetrique) :
 [Voir fonction  ici](https://github.com/AD72876/amine-projets.github.io/blob/main/AFN.c)
 
+Programme en sage/python :
 
 TP de codes algebriques sur les codes de Reed-Solomon et leurs décodage :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/Codes_Reed_Solomon.ipynb)
@@ -41,6 +42,8 @@ TP de cryptographie à clé publique sur Ecdsa :
 TP noté de théorie de l'information :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/tp-compression2.ipynb)
 
+TP Preuve formelles de sécurité :
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/DevoirPFS.ipynb)
 
 Implémentation d'additions, soustractions et divisions scolaires et binaires :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets/raw/main/notebooks_M1_arithmetique_algorithmique.ipynb)
