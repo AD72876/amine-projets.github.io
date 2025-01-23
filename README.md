@@ -1,4 +1,3 @@
-<img width="682" alt="image" src="https://github.com/user-attachments/assets/b3aa1e4e-5614-4cec-996e-9fdd72e8f7e6" /># amine-projets.github.io
 Projets réalisés lors de mon master en cryptographie. Variété d'implémentation de fonctions utiles en cryptographie et en codes.
 
 Programme en C :
