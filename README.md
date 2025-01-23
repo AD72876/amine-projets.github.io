@@ -1,4 +1,4 @@
-# amine-projets.github.io
+<img width="682" alt="image" src="https://github.com/user-attachments/assets/b3aa1e4e-5614-4cec-996e-9fdd72e8f7e6" /># amine-projets.github.io
 Projets réalisés lors de mon master en cryptographie. Variété d'implémentation de fonctions utiles en cryptographie et en codes.
 
 Programme en C :
@@ -29,6 +29,12 @@ Implémentation de la forme algebrique normale AFN (cryptographie symetrique) :
 [Voir fonction  ici](https://github.com/AD72876/amine-projets.github.io/blob/main/AFN.c)
 
 Programme en sage/python :
+
+TP sur les décodages par liste (r,L) :
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/algo_arithm2.ipynb)
+
+Tentative d'attaque sur la version du cryptosystème McElice qui utilise le code GRS (:=Attaque de sidelnikov et shestakov) :
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/attaque_sidelnikov_codes.ipynb)
 
 Implémentation des fonctions de FHE dans le cadre de mon T.E.R :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/recypt_cout.ipynb)
