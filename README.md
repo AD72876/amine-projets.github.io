@@ -30,6 +30,9 @@ Implémentation de la forme algebrique normale AFN (cryptographie symetrique) :
 
 Programme en sage/python :
 
+Implémentation des fonctions de FHE dans le cadre de mon T.E.R :
+[Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/recypt_cout.ipynb)
+
 TP de codes algebriques sur les codes de Reed-Solomon et leurs décodage :
 [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets.github.io/raw/main/Codes_Reed_Solomon.ipynb)
 
