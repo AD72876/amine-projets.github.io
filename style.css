@@ -1,0 +1,68 @@
+/* Général */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #0044cc;
+    color: white;
+    border-radius: 8px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Section des projets */
+.projects {
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #333;
+    border-bottom: 2px solid #0044cc;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #0044cc;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    color: #0073e6;
+}
+
