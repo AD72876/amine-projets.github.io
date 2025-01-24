@@ -7,7 +7,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ## Programme en C
 
 ### **TP Polynôme Binaire**
-- [Voir question 1 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire1.c)
+- [Voir question 1 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/projets/c_programs/polynome_binaire1.c)
 - [Voir question 2 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire2.c)
 - [Voir question 3 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire3.c)
 - [Voir question 4 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_operation.c)
