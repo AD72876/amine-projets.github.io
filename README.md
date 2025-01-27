@@ -1,12 +1,14 @@
 # Projets réalisés lors de mon Master en Cryptographie
 
-Cette page présente divers projets réalisés dans le cadre de mon Master en Cryptographie, avec des implémentations de fonctions utiles en cryptographie et en codes.
+Cette page présente divers projets réalisés dans le cadre de mon Master en Cryptographie,Codes et a
+Arithmétique (ACC), avec des implémentations de fonctions utiles en cryptographie et en codes.
 
 ---
 
 ## Programme en C
 
 ### **TP Polynôme Binaire**
+
 - [Voir question 1 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire1.c)
 - [Voir question 2 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire2.c)
 - [Voir question 3 ici](https://github.com/AD72876/amine-projets.github.io/blob/main/polynome_binaire3.c)
@@ -60,4 +62,4 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 
 ## À propos
 
-Ces projets reflètent la diversité des techniques et algorithmes utilisés dans le cadre des cours de cryptographie. Ils incluent des implémentations en langage C et en Python/SageMath, ainsi que des travaux pratiques en cryptographie symétrique, cryptographie à clé publique, théorie de l'information et plus encore.
+Ces projets reflètent la diversité des techniques et algorithmes utilisés dans le cadre des cours de cryptographie. Ils incluent des implémentations en langage C et en Python/SageMath, ainsi que des travaux pratiques en cryptographie symétrique, cryptographie à clef publique, théorie de l'information et plus encore.
