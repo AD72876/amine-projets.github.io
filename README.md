@@ -14,7 +14,7 @@ Frontend structuré avec HTML sémantique et CSS responsive
 
 Code versionné sur GitHub
 
-GitHub : https://github.com/TON_PSEUDO/message-board
+GitHub : - [Voir page github](https://github.com/AD72876/Entrainement-flask-siteweb)
 
 Simple, clair, professionnel
 
