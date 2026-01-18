@@ -1,3 +1,23 @@
+# Projets personnels
+
+Message Board — Flask / HTML / CSS
+
+Application web permettant de poster, afficher et supprimer des messages
+
+Backend Flask avec routes HTTP et validation des formulaires
+
+Persistance des données via fichier JSON
+
+Gestion des erreurs utilisateur (flash messages)
+
+Frontend structuré avec HTML sémantique et CSS responsive
+
+Code versionné sur GitHub
+
+GitHub : https://github.com/TON_PSEUDO/message-board
+
+Simple, clair, professionnel
+
 # Projets réalisés lors de mon Master en Cryptographie
 
 Cette page présente divers projets réalisés dans le cadre de mon Master en Cryptographie,Codes et a
